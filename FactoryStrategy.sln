@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryStrategy", "E:\FactoryStrategy\FactoryStrategy\FactoryStrategy.csproj", "{AD4E61B7-6C66-460B-ABFE-547828E4D097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryStrategyUnitTests", "E:\FactoryStrategy\FactoryStrategyUnitTests\FactoryStrategyUnitTests.csproj", "{10F43D0D-ABD2-4C45-B824-3F406E252B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4E61B7-6C66-460B-ABFE-547828E4D097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4E61B7-6C66-460B-ABFE-547828E4D097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4E61B7-6C66-460B-ABFE-547828E4D097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4E61B7-6C66-460B-ABFE-547828E4D097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10F43D0D-ABD2-4C45-B824-3F406E252B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F43D0D-ABD2-4C45-B824-3F406E252B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F43D0D-ABD2-4C45-B824-3F406E252B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F43D0D-ABD2-4C45-B824-3F406E252B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6C077C6-291B-4C5E-89AA-BEA944A7AACC}
+	EndGlobalSection
+EndGlobal
