@@ -58,6 +58,7 @@ A .NET 8 (C# 12) solution implementing a flexible, tenant-aware background synch
    - Save your settings.
 
 2. **Start Sync:**
+   ##need to look explore more on background worker or jobs
    - The background service will execute the enabled operations for the selected tenant.
 
 ---
@@ -72,5 +73,6 @@ A .NET 8 (C# 12) solution implementing a flexible, tenant-aware background synch
 ---
 
 ## Testing
+### need to be implemented. Not started yet
 
 Unit tests can be added using [xUnit](https://xunit.net/) and [Moq](https://github.com/moq/moq4):
